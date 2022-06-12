@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.pages-menu{
+  z-index: 100000;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
