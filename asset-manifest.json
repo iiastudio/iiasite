@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iiasite/static/css/main.0cb69b77.css",
-    "main.js": "/iiasite/static/js/main.20f097d2.js",
+    "main.js": "/iiasite/static/js/main.f598cf61.js",
     "static/js/787.4195fa06.chunk.js": "/iiasite/static/js/787.4195fa06.chunk.js",
     "index.html": "/iiasite/index.html",
     "main.0cb69b77.css.map": "/iiasite/static/css/main.0cb69b77.css.map",
-    "main.20f097d2.js.map": "/iiasite/static/js/main.20f097d2.js.map",
+    "main.f598cf61.js.map": "/iiasite/static/js/main.f598cf61.js.map",
     "787.4195fa06.chunk.js.map": "/iiasite/static/js/787.4195fa06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cb69b77.css",
-    "static/js/main.20f097d2.js"
+    "static/js/main.f598cf61.js"
   ]
 }
