@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iia/static/css/main.0cb69b77.css",
-    "main.js": "/iia/static/js/main.661c3cd8.js",
-    "static/js/787.4195fa06.chunk.js": "/iia/static/js/787.4195fa06.chunk.js",
-    "index.html": "/iia/index.html",
-    "main.0cb69b77.css.map": "/iia/static/css/main.0cb69b77.css.map",
-    "main.661c3cd8.js.map": "/iia/static/js/main.661c3cd8.js.map",
-    "787.4195fa06.chunk.js.map": "/iia/static/js/787.4195fa06.chunk.js.map"
+    "main.css": "/iiasite/static/css/main.0cb69b77.css",
+    "main.js": "/iiasite/static/js/main.1bec0eef.js",
+    "static/js/787.4195fa06.chunk.js": "/iiasite/static/js/787.4195fa06.chunk.js",
+    "index.html": "/iiasite/index.html",
+    "main.0cb69b77.css.map": "/iiasite/static/css/main.0cb69b77.css.map",
+    "main.1bec0eef.js.map": "/iiasite/static/js/main.1bec0eef.js.map",
+    "787.4195fa06.chunk.js.map": "/iiasite/static/js/787.4195fa06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cb69b77.css",
-    "static/js/main.661c3cd8.js"
+    "static/js/main.1bec0eef.js"
   ]
 }
